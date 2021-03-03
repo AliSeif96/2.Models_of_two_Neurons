@@ -1,0 +1,5 @@
+﻿  Source.cpp
+E:\2.Models_of_two_Neurons\1.____(RTM)____(WB)____Two-Cell PING\C++\Code\Project1\Project1\Source.cpp(125,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\2.Models_of_two_Neurons\1.____(RTM)____(WB)____Two-Cell PING\C++\Code\Project1\Project1\Source.cpp(147,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\2.Models_of_two_Neurons\1.____(RTM)____(WB)____Two-Cell PING\C++\Code\Project1\Project1\Source.cpp(165,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Project1.vcxproj -> E:\2.Models_of_two_Neurons\1.____(RTM)____(WB)____Two-Cell PING\C++\Code\Project1\Debug\Project1.exe
